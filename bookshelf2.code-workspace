@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"uri": "vscode-remote://codespaces+silver-space-xylophone-vpg96vpg49g4cwrj5/workspaces/bookshelf2"
+		}
+	],
+	"remoteAuthority": "codespaces+silver-space-xylophone-vpg96vpg49g4cwrj5",
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bookshelf"
+	}
+}
